@@ -1,7 +1,7 @@
 # The Great Bengaluru Hackathon
 
 ## 🚀 Overview
-This is the **frontend** for *The Great Bengaluru Hackathon*, a project aimed at solving real-world problems using technology and innovation. The frontend is built using modern web development frameworks to ensure a seamless user experience.
+This is the integrated frontend and backend for *The Great Bengaluru Hackathon*, a project aimed at solving real-world problems using technology and innovation. The frontend is built using modern web development frameworks to ensure a seamless user experience.
 
 ## 🎯 Features
 - Responsive UI for all devices 📱💻
