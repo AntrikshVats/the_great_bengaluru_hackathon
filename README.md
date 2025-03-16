@@ -1,7 +1,10 @@
 # The Great Bengaluru Hackathon 🚀
 
 Welcome to *The Great Bengaluru Hackathon* repository! This project was developed as part of the hackathon, focusing on solving urban challenges through innovative tech solutions. Our team built a data-driven system to enhance urban mobility and ride allocation efficiency.
+
 **Prototype developed specially for Mobile platform.**
+
+
 ## 🚗 Project Overview
 The project leverages *machine learning and predictive analytics* to optimize ride allocation in *Namma Yatri* by categorizing users into tiers based on their ride behavior. This system incentivizes users to accept low-demand rides while ensuring efficient ride distribution.
 
